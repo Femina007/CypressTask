@@ -2,7 +2,7 @@ import {Given,When,Then} from "@badeball/cypress-cucumber-preprocessor";
 import Billing from "./CypressTaskLocators"
     const bg = new Billing();
     var data;
-
+//checking
 beforeEach("To open the site",function(){
         cy.visit("https://shop.demoqa.com/my-account/")
     

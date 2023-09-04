@@ -1,4 +1,5 @@
-class Billing{
+class Billing
+{
     firstname()
     {
         return cy.get("#billing_first_name")

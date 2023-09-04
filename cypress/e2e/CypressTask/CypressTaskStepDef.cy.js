@@ -13,7 +13,6 @@ before("Details page loaded",function(){
     })
 }) 
    
-
 Given('I enter the registration details',()=>
 {   
     //cy.visit("https://shop.demoqa.com/my-account/")
